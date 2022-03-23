@@ -1,0 +1,4 @@
+application:
+  config:
+    hostname: localhost
+    port: 50051
